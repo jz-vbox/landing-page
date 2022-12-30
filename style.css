@@ -1,3 +1,41 @@
 body{
     font-family: roboto;
+    background-color: whitesmoke;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.hero-header{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+div{
+    background-color: aqua;
+}
+
+.fig-box-img-1{
+    border-radius: 25px;
+    border: solid 4px red;
+}
+.fig-box-img-2{
+    border-radius: 25px;
+    border: solid 4px red;
+}
+.fig-box-img-3{
+    border-radius: 25px;
+    border: solid 4px red;
+}
+.fig-box-img-4{
+    border-radius: 25px;
+    border: solid 4px red;
+}
+
+.div-footer-value{
+    align-content: center;
 }
